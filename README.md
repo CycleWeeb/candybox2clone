@@ -1,0 +1,1 @@
+Just a clone of candybox2 for testing purposes.
